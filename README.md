@@ -50,12 +50,6 @@ SERVER:
 
 ![image](https://github.com/user-attachments/assets/82662469-e4d1-42fd-adc7-c50681ad7ccc)
 
-##RESULT
-
-Thus, python program to perform stop and wait protocol was successfully executed
-
-
-
 
 ## RESULT
 Thus, python program to perform stop and wait protocol was successfully executed
